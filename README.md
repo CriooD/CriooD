@@ -14,11 +14,12 @@
     
 - <b>Python</b>
 
-  - [Dataset Scraper - UTMB Puerto Valalrta 2024]
+  - [Dataset Scraper - UTMB Puerto Valalrta 2024](https://github.com/CriooD/UTMB-Dataset.Scraper)
 
 
 <h2> Certification:</h2>
-- [Oracle Data Analysis Learning Path | INFOTEC] (https://www.acreditacion.mexia.gob.mx/acreditacion/6efc1da7-cfdb-4379-b3d5-433abd4da98f)
+
+- [Oracle Data Analysis Learning Path | INFOTEC](https://www.acreditacion.mexia.gob.mx/acreditacion/6efc1da7-cfdb-4379-b3d5-433abd4da98f)
 
 
 <!--
