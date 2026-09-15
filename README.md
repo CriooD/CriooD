@@ -3,12 +3,18 @@
 </h1>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
+
 - <b>SQL</b>
+
   - [NoName]
+  
 - <b>Power BI</b>
+
   - [NoName]
+    
 - <b>Python</b>
-  - [NoName]
+
+  - [Dataset Scraper - UTMB Puerto Valalrta 2024]
 
 
 <h2> Certification:</h2>
