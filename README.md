@@ -6,11 +6,12 @@
 
 - <b>SQL</b>
 
-  - [NoName]
+  - [SQL en Python¿?]
+  - [SQL en MySQL¿?]
   
 - <b>Power BI</b>
 
-  - [NoName]
+  - [UTMB Puerto Vallarta 2024 Dashboards]
  
 - <b>Excel</b>
 
