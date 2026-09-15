@@ -11,6 +11,10 @@
 - <b>Power BI</b>
 
   - [NoName]
+ 
+- <b>Excel</b>
+
+  - [NoName]
     
 - <b>Python</b>
 
