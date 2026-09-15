@@ -1,5 +1,5 @@
 <h1>Hi, I'm Diego! <br/><a href="https://github.com/CriooD">Data Analyst</a>,
-<a href="www.linkedin.com/in/diego-rosales-ocampo-93990826a/">Mathematician</a>. 
+<a href="https://www.linkedin.com/in/diego-rosales-ocampo-93990826a/">Mathematician</a>. 
 </h1>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
