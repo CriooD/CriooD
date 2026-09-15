@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/diego-rosales-ocampo-93990826a/">Mathematician</a>. 
 </h1>
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
+<h2>👨‍💻 Data Analysis Projects:</h2>
 - <b>SQL</b>
   - [NoName]
 - <b>Power BI</b>
