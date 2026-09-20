@@ -6,8 +6,7 @@
 
 - <b>SQL</b>
 
-  - [SQL en Python¿?]
-  - [SQL en MySQL¿?]
+  - [UTMB Puerto Vallarta 2024 Analytics](https://github.com/CriooD/UTMB-Puerto-Vallarta-2024-Analytics)
   
 - <b>Power BI</b>
 
