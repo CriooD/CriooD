@@ -18,7 +18,7 @@
     
 - <b>Python</b>
 
-  - [Dataset Scraper - UTMB Puerto Valalrta 2024](https://github.com/CriooD/UTMB-Dataset.Scraper)
+  - [Dataset Scraper - UTMB Puerto Vallarta 2024](https://github.com/CriooD/UTMB-Dataset.Scraper)
 
 
 <h2> Certification:</h2>
