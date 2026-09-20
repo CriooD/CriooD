@@ -24,6 +24,7 @@ This project takes the public results of the UTMB Puerto Vallarta 2024 race (six
 - <b>Python</b>
 
   - [Dataset Scraper - UTMB Puerto Vallarta 2024](https://github.com/CriooD/UTMB-Dataset.Scraper)
+  - [Database Normalizer - UTMB Puerto Vallarta 2024](https://github.com/CriooD/UTMB-Database-Normalizer)
  
 
 <h3> ETL Pipeline </h3>
