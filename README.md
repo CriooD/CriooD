@@ -15,7 +15,7 @@ This project takes the public results of the UTMB Puerto Vallarta 2024 race (six
   
 - <b>Power BI</b>
 
-  - [UTMB Puerto Vallarta 2024 Dashboards]
+  - [UTMB Puerto Vallarta 2024 Dashboards](https://github.com/CriooD/UTMB-Puerto-Vallarta-2024-Dashboards)
  
 - <b>Excel</b>
 
