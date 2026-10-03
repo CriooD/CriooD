@@ -16,10 +16,6 @@ This project takes the public results of the UTMB Puerto Vallarta 2024 race (six
 - <b>Power BI</b>
 
   - [UTMB Puerto Vallarta 2024 Dashboards](https://github.com/CriooD/UTMB-Puerto-Vallarta-2024-Dashboard)
- 
-- <b>Excel</b>
-
-  - [comming soon]
     
 - <b>Python</b>
 
@@ -37,6 +33,12 @@ The project follows a simple <b>Extract</b> → <b>Transform</b> → <b>Load</b>
   <li><b>Load:</b> the clean data is split into three related tables and loaded into a SQLite database (utmb.db). </li>
 </ol>
 
+
+<h2> Other projects</h2>
+
+- <b>Excel</b>
+
+  - [comming soon]
 
 
 
